@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/FoothillSolutions/DataMocker.git"
   },
-  "author": "",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "author": "AhmadMHawwash",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FoothillSolutions/DataMocker/issues"
